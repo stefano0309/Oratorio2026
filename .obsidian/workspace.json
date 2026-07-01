@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "80ca2d1c26cb6cf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "505db2936795f4a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb56a532499ae8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utils/Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "602654bda4459b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "226324f44cb8cb81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09f4f9753e5deb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d203cd6754a20a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b5c37303d262979d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c5fd33cf53b33aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd5cc95eeff2663b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1953bb95ae2ae7a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Estateragazzi 2026/Settimana 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Settimana 3"
+            }
+          },
+          {
+            "id": "c2f14f0d9196d386",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Estateragazzi 2026/Settimana 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Settimana 3"
+            }
+          },
+          {
+            "id": "c9916984193de5f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1b7dde5065666a16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e4ebac49c1404cc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Estateragazzi 2026/Settimana 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Settimana 3"
+            }
+          },
+          {
+            "id": "22e2b23c418cbcd8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ceb56a532499ae8d",
+  "lastOpenFiles": [
+    "Utils/Task.md",
+    "Utils/Oratorio.md",
+    "Utils/Giochi.md",
+    "Libro.pdf",
+    "Note_Obsidian/Gioco 141- Laser.md",
+    "Note_Obsidian/Gioco 140- Onde.md",
+    "Note_Obsidian/Gioco 139- Tiro alla fune.md",
+    "Note_Obsidian/Gioco 137- Black hole.md",
+    "Note_Obsidian/Gioco 136- Limbo.md",
+    "Note_Obsidian/Gioco 130- Doppio slalom.md",
+    "Note_Obsidian/Gioco 129- Giro.md",
+    "Note_Obsidian/Gioco 128- Posipassaggi.md",
+    "Note_Obsidian/Gioco 127- Cricket umano.md",
+    "Note_Obsidian/Gioco 126- Squash.md",
+    "Note_Obsidian/Gioco 125- Muro.md",
+    "Note_Obsidian/Gioco 124- Al volo.md",
+    "Note_Obsidian/Gioco 123- Colpisci.md",
+    "Note_Obsidian/Gioco 122- Baseball.md",
+    "Note_Obsidian/Gioco 121- Difesa del tesoro.md",
+    "Note_Obsidian/Gioco 120- Tennis volo.md",
+    "Note_Obsidian/Gioco 119- Bigliardo.md",
+    "Note_Obsidian/Gioco 118- Risiko (fermo preso siediti).md",
+    "Note_Obsidian/Gioco 117- Calcetto.md",
+    "Note_Obsidian/Gioco 116- Calcio numero.md",
+    "Note_Obsidian/Gioco 115- Football americano.md",
+    "Note_Obsidian/Gioco 114- Tunnel.md",
+    "Note_Obsidian/Gioco 113- Terra.md",
+    "pdfTagger.py",
+    "Untitled.base",
+    "Note_Obsidian",
+    "pdfExtractor.py",
+    "LIBRO_GIOCHI_campiscuola_grest_animazione-1.0.pdf",
+    "00 Estateragazzi 2026",
+    "Utils",
+    "Templates"
+  ]
+}
