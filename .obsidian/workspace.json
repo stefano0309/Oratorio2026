@@ -4,74 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "505db2936795f4a4",
+        "id": "f2a7fe1b5c922344",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb56a532499ae8d",
+            "id": "8f3969f49f3b9248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template week.md",
+                "file": "00 Estateragazzi 2026/Settimana 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template week"
-            }
-          },
-          {
-            "id": "e7149c81f180530e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "title": "Settimana 4"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3866d3906c94697c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5809479db1164031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Campeggio 2026/Giochi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Giochi"
-            }
-          },
-          {
-            "id": "93582a8bcf70b3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note_Obsidian/Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -234,49 +184,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "graph:Apri vista grafo": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "bases:Crea nuova Base": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7149c81f180530e",
+  "active": "8f3969f49f3b9248",
   "lastOpenFiles": [
-    "Templates/Template week.md",
-    "conflict-files-obsidian-git.md",
     "SetUpWorkspace.md",
+    "00 Estateragazzi 2026/Settimana 4.md",
+    "00 Estateragazzi 2026/Senza nome.md",
+    "Utils/Oratorio.md",
     "Utils/Giochi.md",
+    "00 Estateragazzi 2026/Settimana 3.md",
+    "Note_Obsidian/Gioco 103- Le notti di Antarex.md",
+    "Templates/Template week.md",
+    "01 Campeggio 2026/Giochi.md",
+    "00 Estateragazzi 2026/Giovedì 02-07-2026.md",
+    "00 Estateragazzi 2026/Lunedì 29-06-2026.md",
+    "conflict-files-obsidian-git.md",
     "Note_Obsidian/Gioco 120- Tennis volo.md",
     "Note_Obsidian/Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì).md",
-    "01 Campeggio 2026/Giochi.md",
     "Utils/Dashboard.md",
     "01 Campeggio 2026",
     "Note_Obsidian/Gioco 117- Calcetto.md",
     "Libro.pdf",
-    "Utils/Oratorio.md",
     "Note_Obsidian/Gioco 99- Mille staffette.md",
     "Note_Obsidian/Gioco 1- Bandierina - classica.md",
     "Utils/Task.md",
-    "00 Estateragazzi 2026/Settimana 3.md",
-    "00 Estateragazzi 2026/Lunedì 29-06-2026.md",
     "00 Estateragazzi 2026/Martedì 30-06-2026.md",
-    "00 Estateragazzi 2026/Giovedì 02-07-2026.md",
     "00 Estateragazzi 2026/Mercoledì 01-07-2026.md",
     "2026-07-01.md",
-    "00 Estateragazzi 2026/Settimana 4.md",
     "Untitled.md",
     "Settimana 5.md",
     "Note_Obsidian/Gioco 4- Handeball.md",
     "Note_Obsidian/Gioco 2- Caccia all'oca.md",
-    "Note_Obsidian/Gioco 3- Contiamo.md",
-    "Note_Obsidian/Gioco 16- Quattro Quadrati.md",
     "pdfTagger.py",
     "Untitled.base",
     "Note_Obsidian",
