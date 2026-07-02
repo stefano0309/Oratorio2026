@@ -3,5 +3,7 @@
   "obsidian-task-archiver",
   "quickadd",
   "obsidian-view-mode-by-frontmatter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-importer",
+  "templater-obsidian"
 ]

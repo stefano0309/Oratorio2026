@@ -25,7 +25,7 @@ tags:
 - Kikko
 - Mattia
 - Ficetto
-- [ ] Organizzazione Giovedì 🔺 Urgente 📅 2026-06-28 #task
+- [x] Organizzazione Giovedì 🔺 Urgente 📅 2026-06-28 #task
 ### Giorni
 
 - [[Lunedì 29-06-2026]]

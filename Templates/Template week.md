@@ -1,24 +1,27 @@
 ---
-date:
+date: <% tp.date.weekday("YYYY-MM-DD", 7) %>
 tags:
+  - week
 ---
-### Turni
 
-##### Lunedì
-- 
-- [ ] Organizzazione Lunedì 🔺 Urgente 📅 2026-06-28 `#task
-##### Martedì
-- 
-- [ ] Organizzazione Martedì 🔺 Urgente 📅 2026-06-28 `#task
-##### Mercoledì
-- 
-- [ ] Organizzazione Mercoledì 🔺 Urgente 📅 2026-06-28 `#task
-##### Giovedì
-- 
-- [ ] Organizzazione Giovedì 🔺 Urgente 📅 2026-06-28 `#task
-### Giorni
+## Turni
 
-- [[Lunedì 29-06-2026]]
-- [[Martedì 31-06-2026]]
-- [[Mercoledì 01-07-2026]]
-- [[Giovedì 02-07-2026]]
+### Lunedì
+Organizzazione Lunedì 🔺 Urgente 📅 <% tp.date.weekday("YYYY-MM-DD", 7) %> #task
+
+### Martedì
+Organizzazione Martedì 🔺 Urgente 📅 <% tp.date.weekday("YYYY-MM-DD", 8) %> #task
+
+### Mercoledì
+Organizzazione Mercoledì 🔺 Urgente 📅 <% tp.date.weekday("YYYY-MM-DD", 9) %> #task
+
+### Giovedì
+Organizzazione Giovedì 🔺 Urgente 📅 <% tp.date.weekday("YYYY-MM-DD", 10) %> #task
+
+---
+
+## Giorni
+* **Lunedì:** <% tp.date.weekday("DD-MM-YYYY", 7) %>
+* **Martedì:** <% tp.date.weekday("DD-MM-YYYY", 8) %>
+* **Mercoledì:** <% tp.date.weekday("DD-MM-YYYY", 9) %>
+* **Giovedì:** <% tp.date.weekday("DD-MM-YYYY", 10) %>
