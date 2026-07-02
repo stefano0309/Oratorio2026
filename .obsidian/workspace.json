@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Template week"
             }
+          },
+          {
+            "id": "e7149c81f180530e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3866d3906c94697c",
@@ -232,8 +247,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22e2b23c418cbcd8",
+  "active": "e7149c81f180530e",
   "lastOpenFiles": [
+    "Templates/Template week.md",
+    "conflict-files-obsidian-git.md",
     "SetUpWorkspace.md",
     "Utils/Giochi.md",
     "Note_Obsidian/Gioco 120- Tennis volo.md",
@@ -244,7 +261,6 @@
     "Note_Obsidian/Gioco 117- Calcetto.md",
     "Libro.pdf",
     "Utils/Oratorio.md",
-    "Templates/Template week.md",
     "Note_Obsidian/Gioco 99- Mille staffette.md",
     "Note_Obsidian/Gioco 1- Bandierina - classica.md",
     "Utils/Task.md",
@@ -261,7 +277,6 @@
     "Note_Obsidian/Gioco 2- Caccia all'oca.md",
     "Note_Obsidian/Gioco 3- Contiamo.md",
     "Note_Obsidian/Gioco 16- Quattro Quadrati.md",
-    "Note_Obsidian/Gioco 141- Laser.md",
     "pdfTagger.py",
     "Untitled.base",
     "Note_Obsidian",
