@@ -1,0 +1,16 @@
+# .gitignore per Obsidian
+
+# Esclude la cartella dei workspace locali (cronologia tab aperte, posizioni delle finestre)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Se usi il plugin "Graph Analysis", esclude la cache
+.obsidian/graph-analysis/
+
+# Esclude file di sistema invisibili (Windows e macOS)
+Thumbs.db
+.DS_Store
+
+# OPZIONALE: Se NON vuoi sincronizzare nessun plugin, tema o impostazione generale, 
+# rimuovi il '#' dalla riga qui sotto. (Di solito però è comodo sincronizzarli).
+# .obsidian/

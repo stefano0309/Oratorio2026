@@ -4,41 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "505db2936795f4a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ceb56a532499ae8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template week.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template week"
-            }
-          },
-          {
-            "id": "e7149c81f180530e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "3866d3906c94697c",
         "type": "tabs",
         "children": [
@@ -48,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Campeggio 2026/Giochi.md",
-                "mode": "source",
+                "file": "Utils/Giochi.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Giochi"
             }
-          },
-          {
-            "id": "93582a8bcf70b3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note_Obsidian/Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,15 +197,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7149c81f180530e",
+  "active": "5809479db1164031",
   "lastOpenFiles": [
+    "01 Campeggio 2026/Giochi.md",
+    "Note_Obsidian/Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì).md",
     "Templates/Template week.md",
     "conflict-files-obsidian-git.md",
     "SetUpWorkspace.md",
     "Utils/Giochi.md",
     "Note_Obsidian/Gioco 120- Tennis volo.md",
-    "Note_Obsidian/Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì).md",
-    "01 Campeggio 2026/Giochi.md",
     "Utils/Dashboard.md",
     "01 Campeggio 2026",
     "Note_Obsidian/Gioco 117- Calcetto.md",
