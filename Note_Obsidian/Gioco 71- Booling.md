@@ -13,7 +13,6 @@ eta: "da 1 a 99"
 # Gioco 71: Booling
 
 
-
 ## 📋 Informazioni Generali
 - **N. Giocatori:** da 1 a 999
 - **Età:** da 1 a 99
