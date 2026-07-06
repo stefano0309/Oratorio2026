@@ -35,3 +35,8 @@ Al termine del combattimento si conteranno le palline avvelenate che sono nei du
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** dei due eserciti, ha meno palline avvelenate nel prorpio campo di battaglia.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 76%)

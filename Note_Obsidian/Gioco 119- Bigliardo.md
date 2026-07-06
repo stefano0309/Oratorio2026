@@ -23,3 +23,18 @@ tutti gli avversari (si può provare a tirare anche con le mani, si può dare un
 tempo  limitato,  si  possono  contare  gli  errori  anziché  i  punti  vale  a  dire 
 contare quante volte la palla esce senza centrare nessuno, così da non  
 avere eliminati ma buche sempre fisse;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 24- Scacchi]] (Affinità: 77%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 76%)
+- [[Gioco 51- Massacro]] (Affinità: 76%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)
+- [[Gioco 4- Handeball]] (Affinità: 76%)
+- [[Gioco 53- Romani e Cristiani]] (Affinità: 75%)
+- [[Gioco 56- Capo e spia]] (Affinità: 75%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 75%)
+- [[Gioco 38- Naufraghi]] (Affinità: 75%)

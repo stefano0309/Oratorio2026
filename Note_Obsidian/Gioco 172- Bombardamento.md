@@ -15,3 +15,8 @@ la squadra a sostituirlo immediatamente. La manche finisce quando la squadra rie
 I tiratori ai bordi del campo possono colpire gli avversari solo lanciando la palla in alto con un ampia parabola 
 (a mo di bomba che cade) e recuperandola solo quando ha smesso di rimbalzare. (Si può  obbligare a 
 lanciare la palla in bagher; come variante pomeridiana si possono usare dei gavettoni;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 174- Senza motore]] (Affinità: 76%)

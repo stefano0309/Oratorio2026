@@ -12,3 +12,11 @@ Siccome non è sempre facile prendere il freesby si può giocare in un campo, di
 cui la squadra si affrontano tirando il freesby dall’altra parte e sperando che di là non riescano a prenderlo 
 prima che tocchi terra o che gli cada. (si può giocare con una rete che divide i campi, alta o bassa, magari 
 cieca;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 208- Ultimate]] (Affinità: 79%)
+- [[Gioco 213- Calcio freesby]] (Affinità: 77%)
+- [[Gioco 211- Il volo più lungo]] (Affinità: 76%)
+- [[Gioco 212- 10 passaggi]] (Affinità: 75%)

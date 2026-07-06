@@ -19,3 +19,8 @@ volo quando questo è lanciato dai suoi compagni liberi. (si può prendere
 anche di controbalzo; non ci si libera prendendo la palla al volo; si può tirare  
 solo rasoterra;…)
 62
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 78%)

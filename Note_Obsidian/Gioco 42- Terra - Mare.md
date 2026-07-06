@@ -41,3 +41,22 @@ sbaglia viene eliminato.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** resta per ultimo!
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 34- Il pompiere]] (Affinità: 78%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 78%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 78%)
+- [[Gioco 7- La cipolla]] (Affinità: 77%)
+- [[Gioco 24- Scacchi]] (Affinità: 76%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 38- Naufraghi]] (Affinità: 76%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 75%)
+- [[Gioco 18- Alta marea]] (Affinità: 75%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 75%)
+- [[Gioco 5- Il nido]] (Affinità: 75%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 75%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 75%)

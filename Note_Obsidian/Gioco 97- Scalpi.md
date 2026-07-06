@@ -26,3 +26,8 @@ dall’ uno al trenta(il numero può anche variare);il cartellino va tenuto in m
 un altro bambino con il numero inferiore al suo; l’ uno può prendere solo il numero più alto,e il numero può 
 prendere tutti.
 58
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 68- Spazzola]] (Affinità: 76%)

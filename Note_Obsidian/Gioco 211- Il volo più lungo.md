@@ -12,3 +12,9 @@ Vincerà la gara la squadra che riesce, (cumulando il tempo di ogni lancio fatto
 a tenere più a lungo in volo il freesby cioè: con un cronometro si sommano i parziali di ogni lancio da quando 
 il freesby si stacca dalla mano sino a quando tocca terra. (si può anche fare a mo’ di gioco olimpico così da 
 assegnare punti ai migliori lanciatori,…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 214- I cento passi]] (Affinità: 80%)
+- [[Gioco 209- Terra freesby]] (Affinità: 76%)

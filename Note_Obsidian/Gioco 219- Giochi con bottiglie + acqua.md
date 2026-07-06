@@ -31,3 +31,9 @@ squadra. Vince chi riesce a ultimare il disegno. (come il gioco di collegare i p
 schizzati prima per terra con un gesso, gli si scrive il numero e chi vi appoggerà la testa coprendolo dovrà a 
 voce dirlo quando il gioco sarà iniziato;…)
 83
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 33- Hockey a bottiglia]] (Affinità: 77%)
+- [[Gioco 218- Giochi con bicchieri + acqua]] (Affinità: 76%)

@@ -24,3 +24,8 @@ Per vincere bisogna respingere il getto d’acqua (usando il proprio corpo) all�
 ai piedi.  (limitare il tempo e vedere chi ne ha raccolta di più; vedere chi riesce per primo a superare una 
 linea disegnata sul catino; chiamare il cambio dopo 30 sec. o 1 min. per dare la possibilità a tutta la squadra 
 di bagnarsi;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 23- La giostra bagnata]] (Affinità: 77%)

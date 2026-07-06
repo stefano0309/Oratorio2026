@@ -20,3 +20,8 @@ limitandolo a sfide di tusch e mischie; si può come variante limitare al primo
 lancio, di ogni azione di attacco, la possibilità di effettuarlo in avanti come  
 nel football americano; si può giocare in maniera più soft placcando solo con 
 il contatto il portatore di palla;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 115- Football americano]] (Affinità: 89%)

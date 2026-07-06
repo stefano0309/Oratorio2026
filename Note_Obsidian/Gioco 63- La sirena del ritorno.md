@@ -43,3 +43,9 @@ avvicinamento e tutti i pesci-ragazzi dovranno tornare al loro punto di partenza
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** la squadra che arriva prima al tesoro
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 80%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 77%)

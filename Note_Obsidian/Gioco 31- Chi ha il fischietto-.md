@@ -34,3 +34,12 @@ Quando questo alza la mano tutti si fermano e stanno in silenzio e il giocatore 
 fischia distintamente tre volte di seguito. 
 Alla fine del terzo fischio il giocatore bendato deve cercare di toccare colui che ha fischiato e se ci riesce il 
 fischiatore prende il suo posto al centro del quadrato.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 11- Non più di tre passi]] (Affinità: 78%)
+- [[Gioco 55- Non più di tre passi]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 76%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 75%)

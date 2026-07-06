@@ -60,3 +60,14 @@ dai confini del proprio pianeta e dalla base. - Non e possibile darsi la mano pe
 ## 🏆 Condizione di Vittoria
 **Vince chi...** alla fine del gioco possiede più risorse: si contano sia le risorse altrui che sono state conquistate 
 sia le proprie.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 78%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 77%)
+- [[Gioco 44- Star trak]] (Affinità: 76%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 76%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 75%)

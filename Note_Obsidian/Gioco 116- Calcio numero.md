@@ -19,3 +19,9 @@ squadre  dalla  stressa  linea  di  fondo;  si  può  consentire  alle  squadre 
 cambiare i numeri per adeguare le coppie e non perdere troppo facilmente;  
 si  può  giocare  senza  portiere;  nelle  porte  piccole  o  nel  triangolo  
 sottocanestro;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)
+- [[Gioco 124- Al volo]] (Affinità: 75%)

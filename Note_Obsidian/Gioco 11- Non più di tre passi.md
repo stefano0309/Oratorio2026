@@ -35,3 +35,24 @@ terreno.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** il cercatore se prende i giocatori in un tempo stabilito.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 55- Non più di tre passi]] (Affinità: 99%)
+- [[Gioco 220- Giochi con catini + acqua]] (Affinità: 78%)
+- [[Gioco 31- Chi ha il fischietto-]] (Affinità: 78%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 77%)
+- [[Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)]] (Affinità: 76%)
+- [[Gioco 82- La caccia all’orso.]] (Affinità: 76%)
+- [[Gioco 18- Alta marea]] (Affinità: 76%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 75%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 75%)
+- [[Gioco 27- Gioco della Q]] (Affinità: 75%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 75%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 75%)
+- [[Gioco 9- Galateo]] (Affinità: 75%)
+- [[Gioco 56- Capo e spia]] (Affinità: 75%)

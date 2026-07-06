@@ -25,3 +25,11 @@ tunnel agli avversari, questi gli rubino la posizione -se è più avanti della l
 65
 e  proseguano  con  il  loro  pallone  lasciando  agli  sfortunati  il  compito  di 
 ripartire dal pallone più arretrato;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 58- Porte mobili]] (Affinità: 78%)
+- [[Gioco 124- Al volo]] (Affinità: 78%)
+- [[Gioco 132- Bigliardino umano]] (Affinità: 76%)
+- [[Gioco 130- Doppio slalom]] (Affinità: 75%)

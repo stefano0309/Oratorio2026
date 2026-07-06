@@ -1,172 +1,134 @@
 import os
 import re
-from pypdf import PdfReader
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
-# --- 🎯 DIZIONARIO ESTESO E AUTOMATIZZATO DEI TAG ---
-# Lo script cercherà queste parole (o le loro radici) nel testo e applicherà i rispettivi tag su Obsidian.
-DIZIONARIO_TAGS = {
-    # --- TIPOLOGIA DI GIOCO ---
-    "tipo/squadre": ["squadra", "squadre", "fazioni", "gruppi", "fazione", "divisi in due"],
-    "tipo/tutti_contro_tutti": ["tutti contro tutti", "singolo", "individuale"],
-    "tipo/coppie": ["coppie", "coppia", "a due a due"],
-    "tipo/cerchio": ["cerchio", "in cerchio", "seduti in cerchio", "girare in cerchio"],
-    "tipo/staffetta": ["staffetta", "a turno", "in fila", "trenino", "colonna"],
-    "tipo/acqua": ["acqua", "piscina", "gavettoni", "gavettone", "bagnato", "spugna", "spugne", "secchio", "secchi"],
-    "tipo/notturno": ["notturno", "notte", "buio", "pila", "torcia", "torce", "lanterna"],
-    
-    # --- MECCANICHE DI GIOCO ---
-    "meccanica/eliminazione": ["eliminato", "eliminati", "fuori gioco", "squalificato"],
-    "meccanica/prigione": ["prigione", "prigioniero", "prigionieri", "liberato", "liberare", "tana"],
-    "meccanica/punti": ["punteggio", "punti", "guadagna un punto", "classifica", "vince chi ha più"],
-    "meccanica/indovinello": ["indovinare", "indovina", "mimo", "mimare", "quiz", "domanda", "domande", "enigma"],
-    "meccanica/scambio_ruoli": ["lupo", "strega", "cacciatore", "toccato diventa", "infetto", "pesta"],
+# --- CONFIGURAZIONE ---
+VAULT_PATH = os.path.expanduser("/Users/stefanodutto/Documents/EstateRagazzi/Note_Obsidian")
+SIMILARITY_THRESHOLD = 0.75
+print("1/4 Caricamento del modello di Embedding locale (all-MiniLM-L6-v2)...")
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
-    # --- DINAMICHE E VALORI ---
-    "tipo/corsa": ["correre", "corsa", "scatto", "velocità", "inseguire", "fuggire", "scappare", "rapido"],
-    "tipo/forza": ["spingere", "tirare", "forza", "fune", "lotta", "sollevare"],
-    "tipo/percezione": ["ascoltare", "silenzio", "rumore", "toccare", "percepire", "osservare", "guarda", "vista"],
-    "tipo/logica": ["strategia", "astuzia", "pensare", "ragionare", "mente", "tattica", "logica", "memoria"],
-    "tipo/cooperazione": ["collaborazione", "aiutarsi", "insieme", "fiducia", "mano nella mano", "cooperativo"],
+def pulisci_vecchi_suggerimenti(contenuto):
+    """Rimuove la vecchia sezione dei suggerimenti generata nei blocchi precedenti"""
+    # Rimuove tutto ciò che parte da '---' seguito dalla sezione dei collegamenti IA fino alla fine del file
+    pattern = r'\n\n---\n## 🧠 Collegamenti Suggeriti dall\'IA.*$'
+    return re.sub(pattern, '', contenuto, flags=re.DOTALL)
 
-    # --- MATERIALI COMUNI ---
-    "materiale/palla": ["palla", "pallone", "pallina", "palle", "super santos", "palla medica"],
-    "materiale/bende": ["bendato", "bendata", "bendati", "bende", "fazzoletto", "fazzoletti", "stoffa"],
-    "materiale/cancelleria": ["carta", "fogli", "foglio", "penna", "penne", "pennarello", "pennarelli", "matita", "cartellone", "cartelloni"],
-    "materiale/gessetti": ["gesso", "gessetti", "disegnare per terra"],
-    "materiale/sedie": ["sedia", "sedie", "panchina", "panchine"],
-    "materiale/cerchi": ["cerchio di plastica", "hula hoop", "cerchi"],
-    "materiale/carte": ["carte da gioco", "mazzo", "carte"],
-    "materiale/oggetti_casuali": ["scatola", "bottiglia", "bottiglie", "sasso", "sassi", "caramelle", "tesoro", "sacchetto", "sacchetti"],
-
-    # --- RUOLI ---
-    "ruolo/capogioco": ["capogioco", "animatore", "arbitro", "narratore", "responsabile"],
-    "ruolo/capitano": ["capitano", "capisquadra", "caposquadra"],
-
-    # --- SPAZIO DI GIOCO ---
-    "spazio/aperto": ["all'aperto", "campo", "prato", "cortile", "bosco", "esterno"],
-    "spazio/chiuso": ["al chiuso", "salone", "stanza", "corridoio", "interno", "palestra"]
-}
-
-def pulisci_testo_pdf(testo):
-    testo = re.sub(r"C\.D\.V\s+NOVARA.*?\n", "", testo, flags=re.IGNORECASE | re.MULTILINE)
-    testo = re.sub(r"ORATORIO DI GALLIATE.*?\n", "", testo, flags=re.IGNORECASE | re.MULTILINE)
-    testo = re.sub(r"Il libro dei giochi.*?\n", "", testo, flags=re.IGNORECASE | re.MULTILINE)
-    return testo
-
-def estrai_testo_da_pdf(pdf_path):
-    reader = PdfReader(pdf_path)
-    testo_completo = ""
-    for page in reader.pages:
-        testo_completo += page.extract_text() + "\n"
-    return pulisci_testo_pdf(testo_completo)
-
-def genera_note_con_tag_automatici(testo, output_dir="Note_Obsidian"):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
-    pattern_divisione = re.compile(r"(?=^Gioco\s+\d+\s*:)", re.MULTILINE | re.IGNORECASE)
-    blocchi_grezzi = pattern_divisione.split(testo)
-    blocchi_giochi = [b for b in blocchi_grezzi if re.match(r"^Gioco\s+\d+", b.strip(), re.IGNORECASE)]
-
-    print(f"Giochi totali rilevati nel PDF: {len(blocchi_giochi)}")
-
-    tag_da_cercare = [
-        ("giocatori", r"N\.\s*giocatori\s*:\s*"),
-        ("eta", r"Età\s*:\s*"),
-        ("durata", r"Durata\s+media\s*:\s*"),
-        ("tipo", r"Tipo\s+gioco\s*:\s*"),
-        ("categoria", r"Categoria\s+scout\s*:\s*"),
-        ("ambientazione", r"Ambientazione\s*:\s*"),
-        ("materiale", r"Materiale\s+necessario\s*:\s*"),
-        ("regole", r"Regole\s*:\s*"),
-        ("vince_chi", r"Vince\s+chi\s*\.\.\.\s*"),
-        ("valori", r"Valori\s+educativi\s*:\s*"),
-    ]
-
-    for blocco in blocchi_giochi:
-        lines = blocco.splitlines()
-        if not lines:
+def carica_e_pulisci_note(vault_path):
+    """Legge le note, rimuove i vecchi tag IA e restituisce il contenuto pulito"""
+    note_files = {}
+    for root, dirs, files in os.walk(vault_path):
+        if '.obsidian' in root:
             continue
+        for file in files:
+            if file.endswith('.md'):
+                full_path = os.path.join(root, file)
+                with open(full_path, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
+                
+                # Sgancia i vecchi suggerimenti se presenti prima di calcolare i nuovi
+                content_pulito = pulisci_vecchi_suggerimenti(content)
+                
+                # Se il file conteneva vecchi suggerimenti, lo sovrascriviamo pulito temporaneamente
+                if content_pulito != content:
+                    with open(full_path, 'w', encoding='utf-8') as f:
+                        f.write(content_pulito)
+                
+                # Rimuove il frontmatter solo per l'analisi del modello IA
+                content_per_embedding = re.sub(r'^---.*?---', '', content_pulito, flags=re.DOTALL)
+                
+                note_files[file] = {
+                    "path": full_path,
+                    "content": content_per_embedding.strip(),
+                    "raw_content": content_pulito
+                }
+    return note_files
 
-        titolo_grezzo = lines[0].strip()
-        corpo_gioco = "\n".join(lines[1:])
+def trova_note_orfane(note_files):
+    """Trova le note orfane basandosi sul contenuto appena ripulito"""
+    link_pattern = re.compile(r'\[\[(.*?)\]\]')
+    tutti_i_link = set()
+    note_con_link_uscita = set()
 
-        posizioni = []
-        for chiave, pattern_str in tag_da_cercare:
-            match = re.search(pattern_str, corpo_gioco, re.IGNORECASE)
-            if match:
-                posizioni.append({"chiave": chiave, "start_match": match.start(), "end_match": match.end()})
+    for nome_nota, dati in note_files.items():
+        links = link_pattern.findall(dati['content'])
+        if links:
+            note_con_link_uscita.add(nome_nota)
+            for link in links:
+                nome_pulito = link.split('|')[0].strip()
+                if not nome_pulito.endswith('.md'):
+                    nome_pulito += '.md'
+                tutti_i_link.add(nome_pulito)
 
-        posizioni.sort(key=lambda x: x["start_match"])
-        dati_gioco = {chiave: "" for chiave, _ in tag_da_cercare}
+    orfane = []
+    for nome_nota in note_files.keys():
+        if nome_nota not in note_con_link_uscita and nome_nota not in tutti_i_link:
+            orfane.append(nome_nota)
+            
+    return orfane
 
-        for i, pos in enumerate(posizioni):
-            inizio_testo = pos["end_match"]
-            fine_testo = posizioni[i + 1]["start_match"] if i + 1 < len(posizioni) else len(corpo_gioco)
-            dati_gioco[pos["chiave"]] = corpo_gioco[inizio_testo:fine_testo].strip()
+def main():
+    # Carica le note e resetta i vecchi collegamenti IA
+    note = carica_e_pulisci_note(VAULT_PATH)
+    if not note:
+        print(f"[ERRORE] Nessuna nota trovata nel percorso: {VAULT_PATH}")
+        return
 
-        # --- 🤖 AGGREGATORE INTELLIGENTE DEI TAG ---
-        set_tags = {"gioco", "scout"}
+    print(f"2/4 Trovate {len(note)} note totali. Vecchi blocchi IA resettati.")
+    
+    # Ricalcola le orfane reali adesso che i vecchi link IA sono spariti
+    note_orfane = trova_note_orfane(note)
+    print(f"3/4 Rilevate {len(note_orfane)} note orfane reali.")
 
-        # 1. Normalizzazione Categoria Scout
-        if dati_gioco["categoria"]:
-            cat_tag = dati_gioco["categoria"].lower().replace("di ", "").replace("e ", "").strip()
-            cat_tag = re.sub(r'\s+', '_', cat_tag)
-            set_tags.add(f"categoria/{cat_tag}")
+    if not note_orfane:
+        print("\n[OK] Nessuna nota orfana rilevata dopo il reset iniziale!")
+        return
 
-        # 2. Scansione testuale con barriere di parola (\b) per evitare errori di trigger
-        testo_per_scansione = (titolo_grezzo + " " + dati_gioco["regole"] + " " + dati_gioco["materiale"] + " " + dati_gioco["tipo"]).lower()
+    nomi_note = list(note.keys())
+    testi_note = [dati['content'] if dati['content'] else dati['path'] for dati in note.values()]
+    
+    print("4/4 Elaborazione IA delle nuove affinità di contenuto...")
+    embeddings = model.encode(testi_note, show_progress_bar=False)
+    sim_matrix = cosine_similarity(embeddings)
+
+    print("\n=======================================================")
+    print("    AGGIORNAMENTO SEZIONE COLLEGAMENTI (REINTEGRAZIONE)")
+    print("=======================================================\n")
+
+    modificate = 0
+    for orfana in note_orfane:
+        idx_orfana = nomi_note.index(orfana)
+        percorso_orfana = note[orfana]['path']
         
-        for tag_proposto, parole_chiave in DIZIONARIO_TAGS.items():
-            for parola in parole_chiave:
-                # Se la parola contiene spazi, la cerchiamo così com'è, altrimenti usiamo le barriere \b
-                pattern_ricerca = rf"\b{re.escape(parola)}\b" if " " not in parola else re.escape(parola)
-                if re.search(pattern_ricerca, testo_per_scansione):
-                    set_tags.add(tag_proposto)
-
-        # 3. Importazione dei valori educativi nativi del PDF
-        if dati_gioco["valori"]:
-            valori_puliti = dati_gioco["valori"].replace(" e ", ", ").replace(";", ",").split(",")
-            for v in valori_puliti:
-                v_clean = v.strip().lower().replace(" ", "_")
-                if v_clean:
-                    set_tags.add(f"valori/{v_clean}")
-
-        # Nome file e scrittura markdown
-        nome_file = re.sub(r'[\\/*?:"<>|]', "-", titolo_grezzo) + ".md"
-        filepath = os.path.join(output_dir, nome_file)
-
-        frontmatter = "---\n"
-        frontmatter += "tags:\n"
-        for t in sorted(list(set_tags)):
-            frontmatter += f"  - {t}\n"
+        suggerimenti = []
+        prossimita_idx = np.argsort(sim_matrix[idx_orfana])[::-1]
         
-        if dati_gioco["categoria"]: frontmatter += f'categoria: "{dati_gioco["categoria"]}"\n'
-        if dati_gioco["eta"]:       frontmatter += f'eta: "{dati_gioco["eta"]}"\n'
-        frontmatter += "---\n"
+        for idx in prossimita_idx:
+            if idx == idx_orfana:
+                continue
+                
+            punteggio = sim_matrix[idx_orfana][idx]
+            if punteggio < SIMILARITY_THRESHOLD:
+                break
+                
+            nome_suggerito = nomi_note[idx].replace('.md', '')
+            suggerimenti.append(f"- [[{nome_suggerito}]] (Affinità: {int(punteggio * 100)}%)")
+            
+        if suggerimenti:
+            print(f"🔄 Sezione rigenerata per: [{orfana}] -> {len(suggerimenti)} nuovi link.")
+            
+            with open(percorso_orfana, 'a', encoding='utf-8') as f:
+                f.write("\n\n---")
+                f.write("\n## 🧠 Collegamenti Suggeriti dall'IA\n")
+                for sug in suggerimenti:
+                    f.write(f"{sug}\n")
+            modificate += 1
 
-        markdown_content = f"{frontmatter}# {titolo_grezzo}\n\n"
-        markdown_content += "## 📋 Informazioni Generali\n"
-        if dati_gioco["giocatori"]: markdown_content += f"- **N. Giocatori:** {dati_gioco['giocatori']}\n"
-        if dati_gioco["eta"]:       markdown_content += f"- **Età:** {dati_gioco['eta']}\n"
-        if dati_gioco["durata"]:    markdown_content += f"- **Durata Media:** {dati_gioco['durata']}\n"
-        if dati_gioco["tipo"]:      markdown_content += f"- **Tipo Gioco:** {dati_gioco['tipo']}\n"
-        if dati_gioco["categoria"]: markdown_content += f"- **Categoria Scout:** {dati_gioco['categoria']}\n"
-
-        if dati_gioco["ambientazione"]: markdown_content += f"\n## 🌊 Ambientazione\n{dati_gioco['ambientazione']}\n"
-        if dati_gioco["materiale"]:     markdown_content += f"\n## 🎒 Materiale Necessario\n{dati_gioco['materiale']}\n"
-        if dati_gioco["regole"]:        markdown_content += f"\n## 📜 Regole e Svolgimento\n{dati_gioco['regole']}\n"
-        if dati_gioco["vince_chi"]:     markdown_content += f"\n## 🏆 Condizione di Vittoria\n**Vince chi...** {dati_gioco['vince_chi']}\n"
-
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(markdown_content)
-
-    print(f"[COMPLETATO] Generati {len(blocchi_giochi)} file .md super-taggati in '{output_dir}'.")
+    print("\n=======================================================")
+    print(f" AGGIORNAMENTO COMPLETATO: {modificate} sezioni aggiornate.")
+    print("=======================================================")
 
 if __name__ == "__main__":
-    file_pdf_target = "Libro.pdf"
-    if os.path.exists(file_pdf_target):
-        testo_pdf = estrai_testo_da_pdf(file_pdf_target)
-        genera_note_con_tag_automatici(testo_pdf)
-    else:
-        print(f"Errore: Il file '{file_pdf_target}' non è stato trovato.")
+    main()

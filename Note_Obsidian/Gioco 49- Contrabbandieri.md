@@ -44,3 +44,17 @@ porta il diamante nel minor tempo (cronometrato) vince.
 ## 🏆 Condizione di Vittoria
 **Vince chi...** per prima riesce a portare il foglietto del diamante (basta che lo porti un solo componente della 
 squadra).
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 40- Oggetti cantati]] (Affinità: 78%)
+- [[Gioco 67- Fazzoletto bandiera]] (Affinità: 78%)
+- [[Gioco 38- Naufraghi]] (Affinità: 78%)
+- [[Gioco 65- Nodo gigante]] (Affinità: 77%)
+- [[Gioco 18- Alta marea]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 24- Scacchi]] (Affinità: 77%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)
+- [[Gioco 68- Spazzola]] (Affinità: 75%)
+- [[Gioco 139- Tiro alla fune]] (Affinità: 75%)

@@ -36,3 +36,23 @@ la veste del sacerdote è verde? ecc...).
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** si siede prima sulla sedia giusta conquista un punto per la sua squadra.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 32- Corri valigia, corri!]] (Affinità: 82%)
+- [[Gioco 7- La cipolla]] (Affinità: 80%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 79%)
+- [[Gioco 56- Capo e spia]] (Affinità: 78%)
+- [[Gioco 24- Scacchi]] (Affinità: 78%)
+- [[Gioco 3- Contiamo]] (Affinità: 78%)
+- [[Gioco 53- Romani e Cristiani]] (Affinità: 77%)
+- [[Gioco 29- 7 e ½]] (Affinità: 77%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 77%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 10- Mago o Libero -]] (Affinità: 76%)
+- [[Gioco 72- Il re fuoco]] (Affinità: 75%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 75%)
+- [[Gioco 4- Handeball]] (Affinità: 75%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 75%)

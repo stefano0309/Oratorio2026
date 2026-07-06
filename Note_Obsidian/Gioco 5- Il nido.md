@@ -35,3 +35,13 @@ Musica di sottofondo.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** Nessuno
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 18- Alta marea]] (Affinità: 78%)
+- [[Gioco 65- Nodo gigante]] (Affinità: 78%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 77%)
+- [[Gioco 16- Quattro Quadrati]] (Affinità: 77%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 77%)
+- [[Gioco 42- Terra - Mare]] (Affinità: 75%)

@@ -46,3 +46,21 @@ dovrà riempire il bicchiere nel catino e arrivato alla linea lanciare l’acqua
 raccoglierne il più possibile e andrà a versarla nell’imbuto sopra la bottiglia di squadra. Vince chi riesce in 
 meno tempo a riempire la bottiglia. (oppure si può dare un tempo massimo e vedere quante bottiglie 
 riescono a riempire;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 85%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 82%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 80%)
+- [[Gioco 80- Staffetta perdifiato]] (Affinità: 78%)
+- [[Gioco 92- Battesimo all’equatore = Battesimo al Polo]] (Affinità: 78%)
+- [[Gioco 86- Cavalli e cavalieri = Bradipi e Mammut]] (Affinità: 78%)
+- [[Gioco 66- Staffetta con bicchieri]] (Affinità: 77%)
+- [[Gioco 219- Giochi con bottiglie + acqua]] (Affinità: 76%)
+- [[Gioco 220- Giochi con catini + acqua]] (Affinità: 76%)
+- [[Gioco 207- Golf]] (Affinità: 75%)
+- [[Gioco 4- Handeball]] (Affinità: 75%)
+- [[Gioco 18- Alta marea]] (Affinità: 75%)
+- [[Gioco 72- Il re fuoco]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)

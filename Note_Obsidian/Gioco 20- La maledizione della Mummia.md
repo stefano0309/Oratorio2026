@@ -68,3 +68,8 @@ viene fermata da essa e non possiede il numero di talismani necessari).
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** nel minor tempo possibile, riesce a conquistare i sei diamanti e portarli alla mummia.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 76%)

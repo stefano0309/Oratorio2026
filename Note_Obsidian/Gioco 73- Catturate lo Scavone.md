@@ -41,3 +41,27 @@ Una volta catturato, i cacciatori tornano nella loro squadra e l'arbrito chiamer
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** cattura più volte lo Scavone.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 82%)
+- [[Gioco 56- Capo e spia]] (Affinità: 81%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 79%)
+- [[Gioco 27- Gioco della Q]] (Affinità: 78%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 78%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 78%)
+- [[Gioco 29- 7 e ½]] (Affinità: 77%)
+- [[Gioco 10- Mago o Libero -]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 76%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 76%)
+- [[Gioco 24- Scacchi]] (Affinità: 76%)
+- [[Gioco 4- Handeball]] (Affinità: 76%)
+- [[Gioco 60- Torretta]] (Affinità: 76%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 75%)
+- [[Gioco 34- Il pompiere]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 75%)
+- [[Gioco 13- Quiddich]] (Affinità: 75%)
+- [[Gioco 41- Scoutball]] (Affinità: 75%)
+- [[Gioco 7- La cipolla]] (Affinità: 75%)

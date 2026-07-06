@@ -37,3 +37,9 @@ dagli educatori.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** indovina con il minor numero di domande.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 236- Il tocco]] (Affinità: 78%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 76%)

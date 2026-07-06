@@ -23,3 +23,9 @@ Tempo:  dipende quanto la squadra ci impiega per rubare il birillo
 Variante: 
 invece di rubare i birilli, si deve osservare uno dei disegni che la squadra avversaria protegge,riuscire a 
 correre nel proprio campo e riprodurre il disegno sul proprio cartellone
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 88- Ruba il birillo = Caccia la pelliccia]] (Affinità: 80%)
+- [[Gioco 87- Bandiera circolare = Giro attorno all’iceberg]] (Affinità: 75%)

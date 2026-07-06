@@ -35,3 +35,8 @@ Variante: per aumentare la difficoltà basta angiugere altri tipi di pasta.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** finisce per prima.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 76%)

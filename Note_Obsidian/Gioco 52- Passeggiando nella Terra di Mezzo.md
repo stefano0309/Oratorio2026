@@ -36,3 +36,11 @@ L'animatore può far indietreggiare chi bara o sbaglia i passi.
 ## 🏆 Condizione di Vittoria
 **Vince chi...** , tra le squadre, chi arriva prima dall'animatore (basta un componente della squadra per farne 
 vincere il resto).
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 25- Un, due, tre, stella!]] (Affinità: 79%)
+- [[Gioco 67- Fazzoletto bandiera]] (Affinità: 77%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 77%)
+- [[Gioco 78- I polipi]] (Affinità: 76%)

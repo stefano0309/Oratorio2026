@@ -27,3 +27,12 @@ Ogni squadra, a staffetta, prende dell’acqua con le mani da una bacinella e la
 bottiglia in fondo al percorso. Quando uno torna ne parte un altro. Vince chi recupera più acqua.  (si può 
 anche fare a coppie: uno prende l’acqua e l’altro lo aiuta a disperderne il meno possibile tenendo sotto le 
 mani;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 165- Spazzolino da denti]] (Affinità: 82%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 78%)
+- [[Gioco 55- Non più di tre passi]] (Affinità: 78%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 77%)
+- [[Gioco 218- Giochi con bicchieri + acqua]] (Affinità: 76%)

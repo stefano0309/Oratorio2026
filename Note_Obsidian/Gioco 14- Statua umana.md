@@ -36,3 +36,15 @@ giocatore, il terzo si dovrà appoggiare al secondo, il quarto al terzo e cosi v
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** rimane più a lungo in piedi e con tutte le parti indicate appoggiate senza mai staccarle.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 78%)
+- [[Gioco 38- Naufraghi]] (Affinità: 78%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 78%)
+- [[Gioco 56- Capo e spia]] (Affinità: 77%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 75%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 18- Alta marea]] (Affinità: 75%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 75%)

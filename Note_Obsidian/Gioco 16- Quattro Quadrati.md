@@ -41,3 +41,17 @@ del colore stabilito e tutti i giocatori dovranno correre verso il quadrato del 
 **Vince chi...** per prima entra nel proprio quadrato. 
 variante: si possono fare piu manches e sommare i punteggi 
 16
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 79%)
+- [[Gioco 18- Alta marea]] (Affinità: 79%)
+- [[Gioco 38- Naufraghi]] (Affinità: 77%)
+- [[Gioco 5- Il nido]] (Affinità: 77%)
+- [[Gioco 65- Nodo gigante]] (Affinità: 76%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 75%)
+- [[Gioco 223- Giochi notturni]] (Affinità: 75%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 75%)

@@ -32,3 +32,13 @@ Buon divertimento!
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** si ricorda tutto, o per abbandono degli altri.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 79%)
+- [[Gioco 7- La cipolla]] (Affinità: 78%)
+- [[Gioco 27- Gioco della Q]] (Affinità: 77%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 77%)
+- [[Gioco 62- Il rigatone]] (Affinità: 75%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 75%)

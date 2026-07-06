@@ -59,3 +59,14 @@ giocare con più giocatori.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** Supera le prove dei Supereroi nel miglior modo possibile.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 78%)
+- [[Gioco 24- Scacchi]] (Affinità: 77%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 29- 7 e ½]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 75%)

@@ -33,3 +33,16 @@ passare il messaggio sbaglia di proposito...) e la partecipazione è piú attiva
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** per primo totalizza 3 punti
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 216- Irrigatore a getto]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 76%)
+- [[Gioco 24- Scacchi]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 4- Handeball]] (Affinità: 75%)
+- [[Gioco 56- Capo e spia]] (Affinità: 75%)
+- [[Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)]] (Affinità: 75%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 75%)

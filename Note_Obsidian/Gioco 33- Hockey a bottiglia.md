@@ -31,3 +31,9 @@ Varianti : sono possibili tornei...
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** la squadra che, ovviamente, segna di più.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 219- Giochi con bottiglie + acqua]] (Affinità: 77%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 76%)

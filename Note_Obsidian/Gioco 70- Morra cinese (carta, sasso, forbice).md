@@ -30,3 +30,8 @@ chiederne un’altra.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** chi guadagna più carte
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 18- Alta marea]] (Affinità: 76%)

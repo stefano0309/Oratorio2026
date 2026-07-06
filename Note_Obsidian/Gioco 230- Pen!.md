@@ -28,3 +28,8 @@ non si abbassa, sarà invece lui a morire.
 ## 🏆 Condizione di Vittoria
 **Vince chi...** nell’ultima manches urla per prima “pen”. Se si gioca a più squadre, s possono fare più cerchi e 
 alla fine unire i superstiti in un unico cerchio.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 18- Alta marea]] (Affinità: 77%)

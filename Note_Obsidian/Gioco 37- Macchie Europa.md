@@ -35,3 +35,8 @@ Variante: al posto delle capitali europee, delle fotografie o dei disegni, si po
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** rimane più lontano.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 76%)

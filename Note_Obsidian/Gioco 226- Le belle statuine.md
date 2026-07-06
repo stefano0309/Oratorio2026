@@ -31,3 +31,9 @@ devono fermarsi nella posizione in cui si trovano senza muoversi
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** chi riesce a stare fermo più di tutti
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 229- Patata bollente]] (Affinità: 80%)
+- [[Gioco 72- Il re fuoco]] (Affinità: 78%)

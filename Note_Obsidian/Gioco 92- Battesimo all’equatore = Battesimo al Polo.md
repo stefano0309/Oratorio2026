@@ -23,3 +23,14 @@ Tempo: varie manches.
 Luogo:fuori nel campo.
 Varianti:
 Il gioco può essere fatto con più di due squadre, aumentando i   bicchieri da utilizzare.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 93- Battaglia navale = Battaglia glaciale]] (Affinità: 78%)
+- [[Gioco 218- Giochi con bicchieri + acqua]] (Affinità: 78%)
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 77%)
+- [[Gioco 86- Cavalli e cavalieri = Bradipi e Mammut]] (Affinità: 77%)
+- [[Gioco 32- Corri valigia, corri!]] (Affinità: 76%)
+- [[Gioco 88- Ruba il birillo = Caccia la pelliccia]] (Affinità: 76%)
+- [[Gioco 7- La cipolla]] (Affinità: 75%)

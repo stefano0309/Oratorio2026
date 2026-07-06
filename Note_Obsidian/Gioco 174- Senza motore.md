@@ -14,3 +14,10 @@ un certo punto lasciando andare da solo il pilota che dovrà guidarsi fino ad un
 mettere degli ostacoli sul percorso; misurare la durata del viaggio senza motore; vedere chi ci mette meno 
 ad arrivare al traguardo; fare raccogliere un oggetto al pilota; forzare la breve rincorsa su un lato del campo 
 costringendo il pilota a raddrizzarsi con una curva;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 173- Qualifiche]] (Affinità: 77%)
+- [[Gioco 171- Percorso a ostacoli]] (Affinità: 76%)
+- [[Gioco 172- Bombardamento]] (Affinità: 76%)

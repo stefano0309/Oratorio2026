@@ -32,3 +32,12 @@ dovranno comporre delle parole con le lettere scritte sui palloncini.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** ha formato più parole allo stop dell'educatore
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 2- Caccia all'oca]] (Affinità: 76%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 24- Scacchi]] (Affinità: 75%)
+- [[Gioco 47- Spara il palloncino]] (Affinità: 75%)

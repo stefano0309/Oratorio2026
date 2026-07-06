@@ -37,3 +37,20 @@ Se entro i due minuti si riesce a indovinare il titolo si conquista un punto. Si
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** riesce a guadagnare 10 punti.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 24- Scacchi]] (Affinità: 78%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 77%)
+- [[Gioco 7- La cipolla]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 62- Il rigatone]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 67- Fazzoletto bandiera]] (Affinità: 76%)
+- [[Gioco 38- Naufraghi]] (Affinità: 76%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 3- Contiamo]] (Affinità: 75%)
+- [[Gioco 65- Nodo gigante]] (Affinità: 75%)

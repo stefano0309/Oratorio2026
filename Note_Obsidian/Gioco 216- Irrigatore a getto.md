@@ -89,3 +89,21 @@ disegnata gareggiando con quelli di altre squadre senza potersi avvicinare tropp
 l’acqua mentre sta gia cadendo. Quando l’animatore chiama il cambio il secchio si lascia a terra. (dopo poco 
 tempo si può dare il cambio al porta-catino; si può dare un tempo massimo e vedere chi ha raccolto più 
 acqua;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 105- Pallavolo]] (Affinità: 83%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 77%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 77%)
+- [[Gioco 28- Telefono senza fili]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 77%)
+- [[Gioco 183- Volano]] (Affinità: 76%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 76%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 76%)
+- [[Gioco 132- Bigliardino umano]] (Affinità: 76%)
+- [[Gioco 38- Naufraghi]] (Affinità: 75%)
+- [[Gioco 7- La cipolla]] (Affinità: 75%)
+- [[Gioco 130- Doppio slalom]] (Affinità: 75%)
+- [[Gioco 80- Staffetta perdifiato]] (Affinità: 75%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 75%)

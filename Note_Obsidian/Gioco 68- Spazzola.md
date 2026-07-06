@@ -32,3 +32,14 @@ del compagno.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** riesce chi ruba più scalpi
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 67- Fazzoletto bandiera]] (Affinità: 79%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 78%)
+- [[Gioco 97- Scalpi]] (Affinità: 76%)
+- [[Gioco 41- Scoutball]] (Affinità: 76%)
+- [[Gioco 49- Contrabbandieri]] (Affinità: 75%)
+- [[Gioco 56- Capo e spia]] (Affinità: 75%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)

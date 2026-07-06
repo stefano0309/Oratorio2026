@@ -12,3 +12,12 @@ farlo cadere, altrimenti passa in difesa. Non si può avere contatto fisico con 
 (come varianti si può permettere il contatto fisico dove a giocare siano i grandi; si può considerare errore 
 passare il freesby a chi ce l’aveva appena passata; si può obbligare il giocatore con il freesby a restare 
 fermo sino a quando non l’ha passata;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 109- 10 passaggi]] (Affinità: 89%)
+- [[Gioco 208- Ultimate]] (Affinità: 78%)
+- [[Gioco 214- I cento passi]] (Affinità: 77%)
+- [[Gioco 209- Terra freesby]] (Affinità: 75%)
+- [[Gioco 213- Calcio freesby]] (Affinità: 75%)

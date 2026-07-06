@@ -52,3 +52,37 @@ oppure giocare fino a quando una delle squadre non raggiunge un punteggio presta
 **Vince chi...** alla fine raggiunge il punteggio più alto. 
 l'arbitro dovrà stare molto attento a segnare correttamente i punti segnati grazie alla Pluffa', ma anche quelli 
 dovuti alla cattura del Boccino d'oro. Il gioco è un po' complicato, ma è molto divertente
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 56- Capo e spia]] (Affinità: 83%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 81%)
+- [[Gioco 10- Mago o Libero -]] (Affinità: 81%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 80%)
+- [[Gioco 38- Naufraghi]] (Affinità: 79%)
+- [[Gioco 7- La cipolla]] (Affinità: 79%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 79%)
+- [[Gioco 24- Scacchi]] (Affinità: 79%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 79%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 78%)
+- [[Gioco 32- Corri valigia, corri!]] (Affinità: 78%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 78%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 78%)
+- [[Gioco 21- Castelli]] (Affinità: 78%)
+- [[Gioco 78- I polipi]] (Affinità: 77%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 77%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 76%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 76%)
+- [[Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 76%)
+- [[Gioco 29- 7 e ½]] (Affinità: 75%)
+- [[Gioco 3- Contiamo]] (Affinità: 75%)
+- [[Gioco 18- Alta marea]] (Affinità: 75%)
+- [[Gioco 9- Galateo]] (Affinità: 75%)
+- [[Gioco 53- Romani e Cristiani]] (Affinità: 75%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 75%)
+- [[Gioco 73- Catturate lo Scavone]] (Affinità: 75%)
+- [[Gioco 58- Porte mobili]] (Affinità: 75%)
+- [[Gioco 60- Torretta]] (Affinità: 75%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 75%)

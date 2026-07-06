@@ -48,3 +48,9 @@ Chi è arrivato alla meta e ha pescato il cartoncino può ripartire da capo.
 ## 🏆 Condizione di Vittoria
 **Vince chi...** ha totalizzato più punti. ad un certo punto si interrompe il gioco e si procede al conteggio dei 
 punti
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 52- Passeggiando nella Terra di Mezzo]] (Affinità: 79%)
+- [[Gioco 24- Scacchi]] (Affinità: 75%)

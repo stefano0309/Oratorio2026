@@ -31,3 +31,8 @@ Occorrono tante sedie quanti sono i giocatori, meno una. Il gioco inizia facendo
 ragazzi a girare attorno alle sedie in cerchio. Quando la musica si interrompe tutti devono cercare un posto 
 ma uno resterà senza e verrà eliminato. (per non stringere sempre il cerchio si può far sedere l’eliminato su 
 una delle sedie e ripristinare così le condizioni di gioco;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 227- Indovina la canzone]] (Affinità: 75%)

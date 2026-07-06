@@ -52,3 +52,13 @@ se il pianete è in pace oppure in guerra.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** riesce ad esplorare per primo tutti i pianeti
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 48- Star Wars]] (Affinità: 76%)
+- [[Gioco 29- 7 e ½]] (Affinità: 75%)
+- [[Gioco 38- Naufraghi]] (Affinità: 75%)

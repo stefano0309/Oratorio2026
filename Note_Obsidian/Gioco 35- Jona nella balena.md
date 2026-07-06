@@ -42,3 +42,31 @@ e mano a mano che si passa da un gruppo al'altro la tonalità si alzerà di un p
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** Vince il gruppo che riesce ad alzare di più la tonalità della canzone.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 56- Capo e spia]] (Affinità: 80%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 80%)
+- [[Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)]] (Affinità: 79%)
+- [[Gioco 18- Alta marea]] (Affinità: 78%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 77%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 77%)
+- [[Gioco 80- Staffetta perdifiato]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 77%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 77%)
+- [[Gioco 33- Hockey a bottiglia]] (Affinità: 76%)
+- [[Gioco 105- Pallavolo]] (Affinità: 76%)
+- [[Gioco 13- Quiddich]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 76%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 76%)
+- [[Gioco 14- Statua umana]] (Affinità: 75%)
+- [[Gioco 38- Naufraghi]] (Affinità: 75%)
+- [[Gioco 32- Corri valigia, corri!]] (Affinità: 75%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 75%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 75%)
+- [[Gioco 7- La cipolla]] (Affinità: 75%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 75%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 75%)

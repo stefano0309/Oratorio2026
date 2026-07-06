@@ -16,3 +16,8 @@ anziché le mazze e “imbucare”, magari, colpendo un birillo. Vince chi riesc
 numero di lanci. (si possono anche dividere le buche fra i giocatori cosi da farne una o mezza ciascuno; si 
 possono fare gare individuali;…)
 77
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 218- Giochi con bicchieri + acqua]] (Affinità: 75%)

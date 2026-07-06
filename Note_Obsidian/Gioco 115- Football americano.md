@@ -18,3 +18,8 @@ mezzo alle due file di avversari; o una mischia con il classico incastro testa-
 spalle; e magari iniziare il gioco limitandolo a sfide di tusch e mischie; si può  
 giocare in maniera più soft placcando solo con il contatto il portatore di palla;
 …)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 107-Rugby]] (Affinità: 89%)

@@ -15,3 +15,11 @@ varianti si può permettere il contatto fisico dove a giocare siano i grandi; si
 può considerare errore passare la palla a chi ce l’aveva appena passata; si  
 può obbligare il giocatore con la palla a restare fermo sino a quando non l’ha 
 passata;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 212- 10 passaggi]] (Affinità: 89%)
+- [[Gioco 128- Posipassaggi]] (Affinità: 78%)
+- [[Gioco 12- Palla capitano - versione A.C. S. Paolo (Forlì)]] (Affinità: 76%)
+- [[Gioco 214- I cento passi]] (Affinità: 76%)

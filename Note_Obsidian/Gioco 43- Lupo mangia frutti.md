@@ -25,3 +25,12 @@ Il lupo deve dire un frutto e il giocatore che ha ascelto quel frutto deve scapp
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** non si fa prendere dal lupo.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 34- Il pompiere]] (Affinità: 81%)
+- [[Gioco 72- Il re fuoco]] (Affinità: 79%)
+- [[Gioco 236- Il tocco]] (Affinità: 78%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 77%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 76%)

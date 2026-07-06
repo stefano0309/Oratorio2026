@@ -43,3 +43,23 @@ numero di domande: chi sbaglia si vedrà allungare, ad ogni errore, il percorso 
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** arriva per primo a raccogliere il premio
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 38- Naufraghi]] (Affinità: 81%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 80%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 79%)
+- [[Gioco 16- Quattro Quadrati]] (Affinità: 79%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 78%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 78%)
+- [[Gioco 63- La sirena del ritorno]] (Affinità: 77%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 18- Alta marea]] (Affinità: 76%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 75%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 75%)
+- [[Gioco 55- Non più di tre passi]] (Affinità: 75%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 75%)
+- [[Gioco 48- Star Wars]] (Affinità: 75%)
+- [[Gioco 13- Quiddich]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)

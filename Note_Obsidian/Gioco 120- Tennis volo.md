@@ -15,3 +15,9 @@ di un rimbalzo (due se si gioca il singolo o il doppio) e non si può passarsi l
 palla. (Si può giocare il singolo, il doppio, ma anche con una formazione da  
 6; usando anche i piedi se serve o utilizzando solo i piedi e la testa; si può  
 giocare con la rete alta da pallavolo;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 186- Tennis mano]] (Affinità: 80%)
+- [[Gioco 181- Tennis]] (Affinità: 78%)

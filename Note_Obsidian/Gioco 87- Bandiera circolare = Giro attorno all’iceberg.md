@@ -21,3 +21,13 @@ birillo..vince la squadra che riesce a recuperare più birilli.
 Tempo: dipende dal numero di manches.
 55
 Luogo: fuori nel campo.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 88- Ruba il birillo = Caccia la pelliccia]] (Affinità: 83%)
+- [[Gioco 86- Cavalli e cavalieri = Bradipi e Mammut]] (Affinità: 82%)
+- [[Gioco 94- Nuvole]] (Affinità: 79%)
+- [[Gioco 4- Handeball]] (Affinità: 75%)
+- [[Gioco 93- Battaglia navale = Battaglia glaciale]] (Affinità: 75%)
+- [[Gioco 89- Bandiera svizzera = Ruba il graffito]] (Affinità: 75%)

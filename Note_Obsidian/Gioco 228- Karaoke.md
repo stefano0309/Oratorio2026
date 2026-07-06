@@ -23,3 +23,13 @@ karaoke.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** La squadra che ha ottenuto più punti nelle varie esibizioni.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 229- Patata bollente]] (Affinità: 79%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 79%)
+- [[Gioco 71- Booling]] (Affinità: 79%)
+- [[Gioco 227- Indovina la canzone]] (Affinità: 79%)
+- [[Gioco 72- Il re fuoco]] (Affinità: 77%)
+- [[Gioco 236- Il tocco]] (Affinità: 76%)

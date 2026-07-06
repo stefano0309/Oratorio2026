@@ -44,3 +44,13 @@ abbia perduto le sue strisce di carta.
 **Vince chi...** l'orso, se riesce a uccidere tutti i 
 giocatori oppure i giocatori se riescono a 
 togliere tutte le strisce all'orso.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 46- Assalto al castello]] (Affinità: 78%)
+- [[Gioco 56- Capo e spia]] (Affinità: 78%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 77%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 76%)
+- [[Gioco 55- Non più di tre passi]] (Affinità: 76%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 75%)

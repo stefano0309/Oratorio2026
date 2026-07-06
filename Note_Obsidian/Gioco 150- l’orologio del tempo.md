@@ -15,3 +15,8 @@ non arrivare ultimi nel cerchio. Per arrivare bisogna fare un giro completo e ri
 dei vicini nella stessa posizione in cui si era partiti. Perde e siede spalle al centro, con i piedi dove li teneva 
 prima, chi viene preso o chi arriva ultimo. (oppure il cerchio si può stringere man mano che i concorrenti 
 vengono eliminati;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 86- Cavalli e cavalieri = Bradipi e Mammut]] (Affinità: 75%)

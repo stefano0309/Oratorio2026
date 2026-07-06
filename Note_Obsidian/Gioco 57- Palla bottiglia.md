@@ -34,3 +34,13 @@ punti. Ogni tre minuti le squadre si scambiano per dar vita ad un'altra manche!
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** ...fa più punti.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 51- Massacro]] (Affinità: 81%)
+- [[Gioco 7- La cipolla]] (Affinità: 78%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 94- Nuvole]] (Affinità: 75%)
+- [[Gioco 53- Romani e Cristiani]] (Affinità: 75%)
+- [[Gioco 24- Scacchi]] (Affinità: 75%)

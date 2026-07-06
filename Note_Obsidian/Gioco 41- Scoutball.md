@@ -40,3 +40,31 @@ Quando una squadra fa punto, rientrano a giocare anche tutti gli eliminati, e si
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** fa più punti.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 4- Handeball]] (Affinità: 89%)
+- [[Gioco 56- Capo e spia]] (Affinità: 81%)
+- [[Gioco 60- Torretta]] (Affinità: 80%)
+- [[Gioco 51- Massacro]] (Affinità: 79%)
+- [[Gioco 29- 7 e ½]] (Affinità: 78%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 78%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 78%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 78%)
+- [[Gioco 21- Castelli]] (Affinità: 77%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 77%)
+- [[Gioco 58- Porte mobili]] (Affinità: 77%)
+- [[Gioco 7- La cipolla]] (Affinità: 77%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 76%)
+- [[Gioco 80- Staffetta perdifiato]] (Affinità: 76%)
+- [[Gioco 24- Scacchi]] (Affinità: 76%)
+- [[Gioco 38- Naufraghi]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 68- Spazzola]] (Affinità: 76%)
+- [[Gioco 53- Romani e Cristiani]] (Affinità: 76%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 75%)
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 75%)
+- [[Gioco 75- Pallacoperta]] (Affinità: 75%)
+- [[Gioco 73- Catturate lo Scavone]] (Affinità: 75%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 75%)

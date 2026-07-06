@@ -16,3 +16,10 @@ limitandolo a passaggi aerei). Quando un compagno riceve la palla si siede
 (se viene intercettata si rialzano tutti oppure si può proseguire lasciando  
 seduto  chi già  lo  era).  Vince  chi riesce  per primo  a far sedere  tutta  la  
 squadra.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 109- 10 passaggi]] (Affinità: 78%)
+- [[Gioco 214- I cento passi]] (Affinità: 76%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)

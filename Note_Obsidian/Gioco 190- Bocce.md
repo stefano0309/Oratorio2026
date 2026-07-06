@@ -12,3 +12,8 @@ solito si affrontano 2 squadre ma si possono affrontare anche tutte. Parte e tir
 manche precedente e dopo di lui, a gioco avviato, chi è più lontano, con la sua boccia, dal boccino (la sabbia 
 consente solo il tiro aereo, la boccia quando cade si ferma; l’erba consente di far rotolare un po’ le bocce e il 
 cemento di farle rotolare tantissimo rendendo il gioco difficilissimo;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 75%)

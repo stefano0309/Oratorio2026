@@ -37,3 +37,8 @@ Una squadra forma un cerchio che contiene l’altra squadra. I ragazzi del cerch
 colpire con una palla i componenti dell’altra squadra che si possono muovere liberamente nel cerchio. Dopo 
 aver giocato per un tempo stabilito dagli animatori, si farà cambio ruoli. Vincerà la squadra che avrà preso 
 più persone nel tempo prestabilito.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 16- Quattro Quadrati]] (Affinità: 75%)

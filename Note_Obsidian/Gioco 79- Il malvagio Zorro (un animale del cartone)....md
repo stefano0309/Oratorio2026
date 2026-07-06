@@ -44,3 +44,11 @@ fronte al falò.
 - chi colpevolizza un 'innocente' riceve un malus (detto il bonus dai capi) e si prosegue con il gioco intrapeso. 
 - se alla fine del campo non viene scoperto l'identità segreta di Zorro, colui che lo ha impersonato fa 
 guadagnare un bonus alla propria squadra.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 79- Il malvagio Zorro (un animale del cartone)... Scoprite chi è!]] (Affinità: 75%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 75%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 75%)

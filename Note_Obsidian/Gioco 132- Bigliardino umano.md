@@ -20,3 +20,10 @@ altro non si può più inseguirla; a chi supera le linee verrà fischiato fallo 
 punizione contro. (le palle uscite dal fondo sono del portiere, quelle laterali  
 dei giocatori dove la palla è uscita;…)
 66
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 127- Cricket umano]] (Affinità: 76%)
+- [[Gioco 216- Irrigatore a getto]] (Affinità: 76%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 75%)

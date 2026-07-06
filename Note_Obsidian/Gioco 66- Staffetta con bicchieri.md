@@ -33,3 +33,23 @@ della bottiglia e poi passare il bicchiere a quello dietro.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** riesce a riempire la bottiglia per primo
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 18- Alta marea]] (Affinità: 82%)
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 81%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 80%)
+- [[Gioco 80- Staffetta perdifiato]] (Affinità: 79%)
+- [[Gioco 65- Nodo gigante]] (Affinità: 79%)
+- [[Gioco 218- Giochi con bicchieri + acqua]] (Affinità: 77%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 77%)
+- [[Gioco 4- Handeball]] (Affinità: 77%)
+- [[Gioco 21- Castelli]] (Affinità: 76%)
+- [[Gioco 34- Il pompiere]] (Affinità: 76%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 76%)
+- [[Gioco 67- Fazzoletto bandiera]] (Affinità: 75%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 75%)
+- [[Gioco 24- Scacchi]] (Affinità: 75%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 75%)

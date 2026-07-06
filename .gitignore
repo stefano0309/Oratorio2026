@@ -10,7 +10,10 @@
 # Esclude file di sistema invisibili (Windows e macOS)
 Thumbs.db
 .DS_Store
+.venv
+*.py
 
 # OPZIONALE: Se NON vuoi sincronizzare nessun plugin, tema o impostazione generale, 
 # rimuovi il '#' dalla riga qui sotto. (Di solito però è comodo sincronizzarli).
 # .obsidian/
+/Note_Obsidian/Gioco 71- Booling.md

@@ -22,3 +22,11 @@ Luogo:fuori nel campo.
 Varianti:
 Sotto i birilli si può mettere un punteggio, così alla fine si può calcolare la somma dei punti dei birilli colpiti 
 dalle squadre.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 92- Battesimo all’equatore = Battesimo al Polo]] (Affinità: 78%)
+- [[Gioco 86- Cavalli e cavalieri = Bradipi e Mammut]] (Affinità: 76%)
+- [[Gioco 88- Ruba il birillo = Caccia la pelliccia]] (Affinità: 76%)
+- [[Gioco 87- Bandiera circolare = Giro attorno all’iceberg]] (Affinità: 75%)

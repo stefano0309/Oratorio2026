@@ -39,3 +39,38 @@ personaggio.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** per prima - tra le squadre - traveste tutti i suoi giocatori.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 56- Capo e spia]] (Affinità: 82%)
+- [[Gioco 38- Naufraghi]] (Affinità: 82%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 81%)
+- [[Gioco 18- Alta marea]] (Affinità: 80%)
+- [[Gioco 74- Nordisti e sudisti (o altri nomi)]] (Affinità: 79%)
+- [[Gioco 26- Il tesoro della golena]] (Affinità: 79%)
+- [[Gioco 34- Il pompiere]] (Affinità: 78%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 78%)
+- [[Gioco 13- Quiddich]] (Affinità: 78%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 78%)
+- [[Gioco 14- Statua umana]] (Affinità: 78%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 77%)
+- [[Gioco 19- I santi]] (Affinità: 77%)
+- [[Gioco 2- Caccia all'oca]] (Affinità: 77%)
+- [[Gioco 35- Jona nella balena]] (Affinità: 77%)
+- [[Gioco 82- La caccia all’orso.]] (Affinità: 77%)
+- [[Gioco 6- Il sommergibile]] (Affinità: 77%)
+- [[Gioco 9- Galateo]] (Affinità: 77%)
+- [[Gioco 44- Star trak]] (Affinità: 77%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 76%)
+- [[Gioco 29- 7 e ½]] (Affinità: 76%)
+- [[Gioco 45- Guelfi e ghibellini]] (Affinità: 76%)
+- [[Gioco 31- Chi ha il fischietto-]] (Affinità: 76%)
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 75%)
+- [[Gioco 60- Torretta]] (Affinità: 75%)
+- [[Gioco 73- Catturate lo Scavone]] (Affinità: 75%)
+- [[Gioco 81- Bicchiere bucato]] (Affinità: 75%)
+- [[Gioco 10- Mago o Libero -]] (Affinità: 75%)
+- [[Gioco 48- Star Wars]] (Affinità: 75%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 75%)
+- [[Gioco 27- Gioco della Q]] (Affinità: 75%)

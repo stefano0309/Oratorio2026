@@ -38,3 +38,25 @@ cambiate la lettera
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** rimane per ultimo con l'unico oggetto in mano
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 225- Il gioco dei negozi]] (Affinità: 81%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 79%)
+- [[Gioco 38- Naufraghi]] (Affinità: 79%)
+- [[Gioco 73- Catturate lo Scavone]] (Affinità: 78%)
+- [[Gioco 34- Il pompiere]] (Affinità: 78%)
+- [[Gioco 39- Nella valigia che cosa ci metto]] (Affinità: 77%)
+- [[Gioco 50- I cingoli del carro-armato]] (Affinità: 77%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 76%)
+- [[Gioco 56- Capo e spia]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 76%)
+- [[Gioco 55- Non più di tre passi]] (Affinità: 75%)
+- [[Gioco 11- Non più di tre passi]] (Affinità: 75%)
+- [[Gioco 9- Galateo]] (Affinità: 75%)
+- [[Gioco 29- 7 e ½]] (Affinità: 75%)
+- [[Gioco 1- Bandierina - classica]] (Affinità: 75%)
+- [[Gioco 21- Castelli]] (Affinità: 75%)
+- [[Gioco 54- Staffetta mascherata]] (Affinità: 75%)
+- [[Gioco 235- Visual game al buio]] (Affinità: 75%)

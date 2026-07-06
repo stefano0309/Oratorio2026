@@ -34,3 +34,15 @@ rigatone nel contenitore vuoto.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** svuota e riempie prima i due contenitori
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 59- Il gioco dei mimi]] (Affinità: 77%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)
+- [[Gioco 58- Porte mobili]] (Affinità: 76%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 76%)
+- [[Gioco 39- Nella valigia che cosa ci metto]] (Affinità: 75%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 22- Tiro all'orso]] (Affinità: 75%)
+- [[Gioco 56- Capo e spia]] (Affinità: 75%)

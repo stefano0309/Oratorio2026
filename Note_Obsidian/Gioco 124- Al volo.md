@@ -19,3 +19,12 @@ all’italiana,  con  il  rigore  aggiuntivo,  con  il  rigore  che  conferma  i
 conquistati;  si  può  mettere  un  tempo  massimo  ad  ogni  attacco  per  
 incentivare a tirare in porta; si possono dare ai portieri pochissime vite e  
 giocare ad eliminare più avversari possibile;…)
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 127- Cricket umano]] (Affinità: 78%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)
+- [[Gioco 121- Difesa del tesoro]] (Affinità: 75%)
+- [[Gioco 116- Calcio numero]] (Affinità: 75%)
+- [[Gioco 130- Doppio slalom]] (Affinità: 75%)

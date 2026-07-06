@@ -33,3 +33,15 @@ immobilizzato e il ragazzo potrà quindi liberarsi.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** si libera.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 78%)
+- [[Gioco 23- La giostra bagnata]] (Affinità: 77%)
+- [[Gioco 38- Naufraghi]] (Affinità: 77%)
+- [[Gioco 13- Quiddich]] (Affinità: 77%)
+- [[Gioco 40- Oggetti cantati]] (Affinità: 77%)
+- [[Gioco 7- La cipolla]] (Affinità: 76%)
+- [[Gioco 52- Passeggiando nella Terra di Mezzo]] (Affinità: 76%)
+- [[Gioco 46- Assalto al castello]] (Affinità: 75%)

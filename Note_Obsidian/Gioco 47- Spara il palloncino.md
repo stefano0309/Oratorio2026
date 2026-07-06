@@ -36,3 +36,9 @@ passare il palloncino.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** ch, al termine del tempo massimo stabilito, rimane con più giocatori.
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 22- Tiro all'orso]] (Affinità: 77%)
+- [[Gioco 61- l'alfabeto palloncino]] (Affinità: 75%)

@@ -27,3 +27,11 @@ sbagliata.
 
 ## 🏆 Condizione di Vittoria
 **Vince chi...** La squadra che ha dato la risposta giusta dopo aver suonato la campanella
+
+
+---
+## 🧠 Collegamenti Suggeriti dall'IA
+- [[Gioco 229- Patata bollente]] (Affinità: 81%)
+- [[Gioco 228- Karaoke]] (Affinità: 79%)
+- [[Gioco 232- Staffetta con cucchiaio e pallina]] (Affinità: 77%)
+- [[Gioco 202- Musica]] (Affinità: 75%)
